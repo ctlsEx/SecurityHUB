@@ -35,4 +35,4 @@ SecurityHUB/
 Somente `public_html/` fica exposto na rota publica; `core/`, `vendor/` e
 `config.php` ficam na raiz privada do pacote.
 
-# [Matriz de Migração](docs/matriz_de_migração.md)
+# [Matriz de Migração](docs/matriz_de_migracao.md)
